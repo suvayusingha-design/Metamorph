@@ -607,10 +607,10 @@ It contains the project's problem statement, solution, architecture, technical a
 
 ### Team Members
 
-* **[Member 1 Name]**
-* **[Member 2 Name]**
-* **[Member 3 Name]**
-* **[Member 4 Name]**
+* **[Arnab Basak(Leader)]**
+* **[Suvayu Singha]**
+* **[Sohan Das]**
+* **[Anindita Pal]**
 
 > Replace the names above with your actual team members before submitting.
 
