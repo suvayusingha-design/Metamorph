@@ -1,0 +1,15 @@
+{
+  "soldier": {
+    "latitude": 22.69465957,
+    "longitude": 88.37906402,
+    "accuracy": 12.529566,
+    "heading": 71.86255,
+    "received": true
+  },
+  "person": {
+    "latitude": 22.694579999999995,
+    "longitude": 88.37904333333333,
+    "accuracy": 10.0,
+    "received": true
+  }
+}

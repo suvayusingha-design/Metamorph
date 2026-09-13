@@ -1,0 +1,21 @@
+{
+    "gps_valid": true,
+    "aligned": false,
+    "soldier": {
+        "latitude": 22.69465957,
+        "longitude": 88.37906402,
+        "accuracy": 12.529566,
+        "heading": 71.86255,
+        "received": true
+    },
+    "target": {
+        "latitude": 22.694579999999995,
+        "longitude": 88.37904333333333,
+        "accuracy": 10.0,
+        "heading": null,
+        "received": true
+    },
+    "bearing": 193.48769445110548,
+    "difference": 121.62514445110548,
+    "distance": 9.09872261197623
+}
